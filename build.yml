@@ -1,0 +1,5 @@
+- build: examples/FeatherWingTest
+  argon: [0.8.0-rc.26,0.9.0]
+  boron: [0.9.0]
+  xenon: [0.9.0]
+  
