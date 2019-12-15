@@ -50,3 +50,9 @@ It will display several test patterns:
 - The Adafruit graphic (if you set up the SD card)
 
 The display only updates every 3 minutes, as the Adafruit documentation warns that the display can be permanently damaged if you refresh it more often than that.
+
+## Version History
+
+#### 2.3.0 (2019-12-15)
+
+- Updated to Adafruit version 2.3.0
