@@ -53,6 +53,10 @@ The display only updates every 3 minutes, as the Adafruit documentation warns th
 
 ## Version History
 
+#### 2.3.1 (2020-08-02)
+
+- Updated Adafruit_GFX_RK to 1.5.8
+
 #### 2.3.0 (2019-12-15)
 
 - Updated to Adafruit version 2.3.0
